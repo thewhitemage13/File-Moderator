@@ -1,0 +1,16 @@
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\bin\Debug\net8.0-windows\File Moderator.exe
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\bin\Debug\net8.0-windows\File Moderator.deps.json
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\bin\Debug\net8.0-windows\File Moderator.runtimeconfig.json
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\bin\Debug\net8.0-windows\File Moderator.dll
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\bin\Debug\net8.0-windows\File Moderator.pdb
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File_Moderator.Form1.resources
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.csproj.GenerateResource.cache
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.AssemblyInfoInputs.cache
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.AssemblyInfo.cs
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.csproj.CoreCompileInputs.cache
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.dll
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\refint\File Moderator.dll
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.pdb
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\File Moderator.genruntimeconfig.cache
+C:\Users\lolim\Desktop\Project System Programming\File Moderator\File Moderator\obj\Debug\net8.0-windows\ref\File Moderator.dll
